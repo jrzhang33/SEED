@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+tqdm
+einops
+pandas_datareader
+seaborn
+statsmodels
+dtaidistance
+tslearn
