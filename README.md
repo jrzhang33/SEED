@@ -1,4 +1,4 @@
-# Diffusion-Guided Diversity for Single Domain Generalization in Time Series Classification
+![image](https://github.com/user-attachments/assets/6a08b813-f1cf-48a4-98c6-ea0805e6f5c2)# Diffusion-Guided Diversity for Single Domain Generalization in Time Series Classification
 
 This repository contains the official implementation of our KDD 2025 accepted paper titled:
 **Diffusion-Guided Diversity for Single Domain Generalization in Time Series Classification**.
@@ -12,7 +12,7 @@ SEED formulates these representations as pseudo-domain prompts to guide a diffus
 Additionally, SEED introduces a novel prompt-fused sampling method for diffusion, enabling flexible recombination of segment-specific features to continuously expand the pseudo-domain space.
 We provide both theoretical analysis and extensive empirical evaluations on four widely used TSC benchmarks to validate its ability in reducing generalization error and improving model performance in SDG.
 
-
+![framework](./asserts/fig1.png)
 
 ## **Datasets and Domain Splitting**
 
