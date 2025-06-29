@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6a08b813-f1cf-48a4-98c6-ea0805e6f5c2)# Diffusion-Guided Diversity for Single Domain Generalization in Time Series Classification
+# Diffusion-Guided Diversity for Single Domain Generalization in Time Series Classification
 
 This repository contains the official implementation of our KDD 2025 accepted paper titled:
 **Diffusion-Guided Diversity for Single Domain Generalization in Time Series Classification**.
