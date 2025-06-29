@@ -12,7 +12,7 @@ SEED formulates these representations as pseudo-domain prompts to guide a diffus
 Additionally, SEED introduces a novel prompt-fused sampling method for diffusion, enabling flexible recombination of segment-specific features to continuously expand the pseudo-domain space.
 We provide both theoretical analysis and extensive empirical evaluations on four widely used TSC benchmarks to validate its ability in reducing generalization error and improving model performance in SDG.
 
-![framework](./asserts/fig1.png)
+![framework](./framework.png)
 
 ## **Datasets and Domain Splitting**
 
